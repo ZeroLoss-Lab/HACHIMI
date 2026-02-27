@@ -288,11 +288,9 @@ python analyse_all.py --input_file ./sample_data/merged_students_10k.jsonl --sim
 ```json
 {
   "id": 1,
-  "name": "学生姓名",
   "age": 15,
   "gender": "女",
   "grade": "初三",
-  "agent_name": "zhang1_mei3",
   "developmental_stages": {
     "piaget": "形式运算阶段",
     "erikson": "身份与角色混淆",
@@ -364,7 +362,7 @@ python analyse_all.py --input_file ./sample_data/merged_students_10k.jsonl --sim
 ```bibtex
 @software{hachimi2025,
   title={HACHIMI: Human-centric Agent-based Character and Holistic Individual Modeling Infrastructure},
-  author={Research Team},
+  author={Yilin Jiang, Fei Tan, Xuanyu Yin, Jing Leng, Aimin Zhou},
   year={2025},
   note={Multi-agent LLM system for comprehensive student profile generation}
 }
