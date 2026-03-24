@@ -188,6 +188,7 @@ This release includes **one dataset**:
 
 This sample is provided to facilitate reproducibility checks during peer review. The **full dataset (1M+ profiles)** will be released **after the review process** via **our platform**.
 
+- [HuggingFace](https://huggingface.co/datasets/sii-research/HACHIMI-1M)
 
 ### Performance Tuning
 
