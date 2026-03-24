@@ -188,6 +188,8 @@ Provider|https://api.example.com/v1|sk-key|gpt-4|qpm=100|capacity_max=150
 
 此样例用于在同行评审期间促进可重复性检查。**完整数据集（100 万+ 画像）**将在**评审流程后**通过**我们的平台**发布。
 
+- [HuggingFace](https://huggingface.co/datasets/sii-research/HACHIMI-1M)
+
 ### 性能调优
 
 生成速度主要由以下因素控制：
