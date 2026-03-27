@@ -188,6 +188,8 @@ Provider|https://api.example.com/v1|sk-key|gpt-4|qpm=100|capacity_max=150
 
 此样例用于在同行评审期间促进可重复性检查。**完整数据集（100 万+ 画像）**将在**评审流程后**通过**我们的平台**发布。
 
+- [HuggingFace](https://huggingface.co/datasets/sii-research/HACHIMI-1M)
+
 ### 性能调优
 
 生成速度主要由以下因素控制：
@@ -288,11 +290,9 @@ python analyse_all.py --input_file ./sample_data/merged_students_10k.jsonl --sim
 ```json
 {
   "id": 1,
-  "name": "学生姓名",
   "age": 15,
   "gender": "女",
   "grade": "初三",
-  "agent_name": "zhang1_mei3",
   "developmental_stages": {
     "piaget": "形式运算阶段",
     "erikson": "身份与角色混淆",
@@ -364,7 +364,7 @@ python analyse_all.py --input_file ./sample_data/merged_students_10k.jsonl --sim
 ```bibtex
 @software{hachimi2025,
   title={HACHIMI: Human-centric Agent-based Character and Holistic Individual Modeling Infrastructure},
-  author={Research Team},
+  author={Yilin Jiang, Fei Tan, Xuanyu Yin, Jing Leng, Aimin Zhou},
   year={2025},
   note={Multi-agent LLM system for comprehensive student profile generation}
 }
