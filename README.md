@@ -9,6 +9,8 @@
 
 HACHIMI is a multi-agent collaborative system for generating comprehensive student profiles using Large Language Models (LLMs). The system creates detailed student personas including academic performance, personality traits, values, creativity, and mental health characteristics through a sophisticated five-agent collaboration framework.
 
+🔥 Sample student profile data are available at [HACHIMI-1M](https://huggingface.co/datasets/sii-research/HACHIMI-1M).
+
 ## 🌟 Key Features
 
 - **Multi-Agent Collaboration**: Five specialized LLM-based agents work together on a shared whiteboard
