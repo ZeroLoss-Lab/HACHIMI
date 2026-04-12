@@ -367,7 +367,8 @@ If you use this system in your research, please cite:
 @software{hachimi2025,
   title={HACHIMI: Human-centric Agent-based Character and Holistic Individual Modeling Infrastructure},
   author={Yilin Jiang, Fei Tan, Xuanyu Yin, Jing Leng, Aimin Zhou},
-  year={2025},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},
+  year      = {2026},
   note={Multi-agent LLM system for comprehensive student profile generation}
 }
 ```
